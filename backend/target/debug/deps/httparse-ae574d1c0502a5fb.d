@@ -1,0 +1,12 @@
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/httparse-ae574d1c0502a5fb.rmeta: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/libhttparse-ae574d1c0502a5fb.rlib: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/httparse-ae574d1c0502a5fb.d: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs:

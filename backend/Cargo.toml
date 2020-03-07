@@ -1,0 +1,12 @@
+[package]
+name = "rust-perceptron"
+version = "0.1.0"
+authors = ["shirishph <shirish.ph@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.3"
+rocket_cors = { version = "0.5.0", default-features = false }
+plotters = "^0.2.12"

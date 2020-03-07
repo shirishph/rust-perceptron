@@ -1,0 +1,13 @@
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/yansi-492dae131e6c4078.rmeta: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/libyansi-492dae131e6c4078.rlib: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/yansi-492dae131e6c4078.d: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs:

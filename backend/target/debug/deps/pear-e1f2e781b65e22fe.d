@@ -1,0 +1,13 @@
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/pear-e1f2e781b65e22fe.rmeta: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/libpear-e1f2e781b65e22fe.rlib: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/shirish/workarea/rust-perceptron/backend/target/debug/deps/pear-e1f2e781b65e22fe.d: /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs /Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs
+
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/lib.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/macros.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/input.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/result.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/debug.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/combinators.rs:
+/Users/shirish/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.2/src/parsers.rs:
